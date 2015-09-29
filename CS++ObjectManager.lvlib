@@ -50,6 +50,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="Serialized ACL" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
+		<Item Name="Action" Type="Folder"/>
 		<Item Name="Update Actor List Msg.lvclass" Type="LVClass" URL="../CS++ObjectManager Messages/Update Actor List Msg/Update Actor List Msg.lvclass"/>
 		<Item Name="Write Actor Filter Msg.lvclass" Type="LVClass" URL="../CS++ObjectManager Messages/Write Actor Filter Msg/Write Actor Filter Msg.lvclass">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
